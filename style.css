@@ -1,0 +1,31 @@
+a.navbar-brand {
+	font-family: 'Exo', Arial, sans-serif;
+	font-size: 1.7em;
+	color: #FFFFFF;
+	font-weight: 900;
+	font-style: italic;
+}
+
+.navbar {
+	padding: 0rem 1rem;
+}
+
+a.nav-link {
+	color: #FFFFFF;
+	font-family: 'Exo', Helvetica, Arial, sans-serif;
+	font-size: 1.2em;
+	margin-top: 3px;
+}
+
+body {
+	background-color: #343a40!important;
+}
+
+h1._temp {
+	font-family: 'Exo', Arial, sans-serif;
+	font-size: 3em;
+	color: #9a9da0;
+	font-weight: 400;
+	text-align: center;
+	padding-top: 4em;
+}
